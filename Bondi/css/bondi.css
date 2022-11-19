@@ -10,7 +10,7 @@ body {
   font-family: "Roboto", sans-serif !important;
 }
 
-/* strat component */
+/* strat component **/
 .main-btn {
   background-color: var(--red-color);
   color: var(--yellow-color);
